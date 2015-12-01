@@ -22,7 +22,7 @@ MailApp.getRemainingDailyQuota();
 SpreadsheetApp.getActive();
 
 function main(){
-  var url = "https://raw.githubusercontent.com/nobe4/nslack/"+((args.branch!="develop") ? "master" : "develop") +"/core.gs";
+  var url = "https://raw.githubusercontent.com/nobe4/nslack/blob/"+((args.branch!="develop") ? "master" : "develop") +"/core.gs";
   var core_gs = UrlFetchApp.fetch(url);
   var core = new Function(core_gs);
   core();
