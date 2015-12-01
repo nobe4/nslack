@@ -29,12 +29,12 @@ Save it for later...
 
 1. If you haven't created a script yet, got to [this overview](https://developers.google.com/apps-script/overview)
 2. [Create a script](https://cloud.githubusercontent.com/assets/2452791/4371171/b379f55a-4313-11e4-9edc-28ba351031fa.png) in your Google Drive
-3. Copy the content of [main.gs](https://github.com/nobe4/extralendar/blob/master/main.gs)
+3. Copy the content of [main.gs](https://github.com/nobe4/nslack/blob/master/main.gs)
 4. Paste it in your created script
 
 ### Copy the Google script
 
-1. Copy the [main.gs](https://github.com/nobe4/extralendar/blob/master/main.gs) file into your Google Drive.
+1. Copy the [main.gs](https://github.com/nobe4/nslack/blob/master/main.gs) file into your Google Drive.
 
 ## Configure the constant variables
 
@@ -42,7 +42,7 @@ Save it for later...
 
 * token
 
-Your Slack toek previously generated.
+Your Slack token previously generated.
 
 * sheetId
 
