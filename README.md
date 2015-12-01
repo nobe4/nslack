@@ -51,9 +51,11 @@ Your Spreadsheet ID previously saved.
 ### Optionnal
 
 * email
+
 If you want an error notification with mail, fill it with the wanted mail.
 
-* branch
+* branch  
+
 `master` for only stable release,
 `develop` for all release.
 
