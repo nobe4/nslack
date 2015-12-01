@@ -27,7 +27,7 @@ Save it for later...
 ## Create the Script
 ### From an empty script
 
-1. If you haven't created a script yet, got to [this overview](https://developers.google.com/apps-script/overview)
+1. If you haven't created a script yet, go to [this overview](https://developers.google.com/apps-script/overview)
 2. [Create a script](https://cloud.githubusercontent.com/assets/2452791/4371171/b379f55a-4313-11e4-9edc-28ba351031fa.png) in your Google Drive
 3. Copy the content of [main.gs](https://github.com/nobe4/nslack/blob/master/main.gs)
 4. Paste it in your created script
@@ -48,7 +48,7 @@ Your Slack token previously generated.
 
 Your Spreadsheet ID previously saved.
 
-### Optionnal
+### Optional
 
 * email
 
