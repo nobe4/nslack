@@ -2,7 +2,7 @@
 
 This script allow you to visualize easily all your slack connections in a google spreadsheet.
 
-[Spreadsheet example](todo)
+![Spreadsheet example](https://cloud.githubusercontent.com/assets/2452791/11499360/ca8937b6-9825-11e5-87be-99df45e40d7a.png)
 
 # Installation 
 
@@ -62,8 +62,8 @@ If you want an error notification with mail, fill it with the wanted mail.
 
 ## Configure the trigger
 
-1. [Create the trigger](todo)
-2. [Set the time preference](todo) 
+1. ![Create the trigger](https://cloud.githubusercontent.com/assets/2452791/11499381/fe3b88b6-9825-11e5-9107-8785533fcf41.png)
+2. ![Set the time preference](https://cloud.githubusercontent.com/assets/2452791/11499382/fe3ba1fc-9825-11e5-88fe-cdb5e80244e9.png)
 
 
 # Disclaimer
